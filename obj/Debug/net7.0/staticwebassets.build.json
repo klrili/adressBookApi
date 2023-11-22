@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QA6Tt3vMKlyGQypWEn2M+jljZkMWibSMT6d8a556pZM=",
+  "Source": "AdressBookWebApiManager",
+  "BasePath": "_content/AdressBookWebApiManager",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
